@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#playcontainer {
+  background-color: blueviolet;
+  align-items: center;
+  justify-content: center;
+}
+
+#playbutton {
+  background-color: chartreuse;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50%;
+
+
+}
